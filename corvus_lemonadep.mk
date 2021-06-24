@@ -24,7 +24,7 @@ $(call inherit-product, device/oneplus/lemonadep/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/corvus/config/common_full_phone.mk)
 
-
+USE_GAPPS := true
 
 PRODUCT_NAME := corvus_lemonadep
 PRODUCT_DEVICE := lemonadep
