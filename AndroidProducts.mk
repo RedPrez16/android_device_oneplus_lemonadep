@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lemonadep.mk
+    $(LOCAL_DIR)/corvus_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
     lineage_lemonadep-user \
