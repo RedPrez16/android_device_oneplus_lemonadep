@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/corvus_lemonadep.mk
+    $(LOCAL_DIR)/derp_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
-    corvus_lemonadep-user \
-    corvus_lemonadep-userdebug \
-    corvus_lemonadep-eng
+    derp_lemonadep-user \
+    derp_lemonadep-userdebug \
+    derp_lemonadep-eng
